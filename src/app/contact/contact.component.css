@@ -44,7 +44,7 @@ body {
     background-color: #3a1fb5;
 }
 .hero-section {
-    background: url('C:/Domain project/contactus(1).jpg') no-repeat center center/cover;
+    background: url('C:/Users/alluvadavarshitha/OneDrive/Desktop/Domainproject/public/assests/images/contactus(1).jpg') no-repeat center center/cover;
     padding: 60px 0;
     text-align: center;
     color: white;
@@ -83,7 +83,7 @@ body {
     left: 0;
     width: 50px;
     height: 50px;
-    background: url('C:/Domain project/logo.jpg') no-repeat center center/contain;
+    background: url('C:/Users/alluvadavarshitha/OneDrive/Desktop/Domainproject/public/assests/images/logo1.jpg') no-repeat center center/contain;
     transform: translateY(-60%);
 }
 .image-button {
